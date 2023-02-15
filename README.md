@@ -10,9 +10,6 @@ for [Laravel 9.x](https://laravel.com/docs/9.x) and [PHP 8.1](https://www.php.ne
 rewritten, and if you are using previous version, you should change your code accordingly. Code is simplified now and it
 should take you several minutes to completely rewrite usage.
 
-> **Attention:**
-> Current version is completely rewritten. If you are missing some functionality, that was possible to achieve in previous versions, fill free to open issue.
-> Hope this new version will be easier to use, and it will provide better functionality for your needs.
 
 ## Installation
 
