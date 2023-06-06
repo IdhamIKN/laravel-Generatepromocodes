@@ -251,6 +251,25 @@ Promocodes::notAvailable(); // To retrieve invalid (not available) promocodes
 composer test
 ```
 
-## Credits
+<h2 id="[dukungan](https://saweria.co/idhamIKN)">💌 [Support Me]</h2>
 
-- [Idham IKN](https://github.com/IdhamIKN)
+<p>
+You can support me on the Saweria.co platform! Your support will mean a lot. However, with you giving a <i>star</i> to this <i>project</i>, it's really enough~!
+</p>
+
+<a href="https://saweria.co/idhamIKN" target="_blank"><img id="wse-buttons-preview" src="💌 [Support Me]" height="40" style="border:0px;height:40px;" alt="💌 [Support Me]" ></a>
+
+<h2 id="kontribusi">🤝 Contributing</h2>
+
+<p>
+<i>Contributions, issues and feature requests</i> really appreciated because this application is far from perfect. Feel free to make <i>pull requests</i> and make changes to this <i>project</i>, okay!
+</p>
+
+<h2 id="lisensi">📝 License</h2>
+
+<p>laravel-Generatepromocodes is open-sourced software licensed under the MIT license.</p>
+
+<h2 id="pembuat">🧍 Author</h2>
+
+<p>laravel-Generatepromocodes  created by <a href="https://instagram.com/idhamikn?igshid=MmJiY2I4NDBkZg==">IdhamIKn</a> .</p>
+
